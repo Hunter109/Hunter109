@@ -6,6 +6,10 @@
 - 📫 Reach me out on [Linkedin](https://www.linkedin.com/in/utsav-wagle-a4847a270/)
 
  
+###  My Skills
+ <img src="https://www.designmantic.com/blog/wp-content/uploads/2020/10/Computer-Logo-Designs-718x300.jpg"  width="400" > 
+
+ 
 ###  Languages 🌐
 
 | HTML | CSS | JavaScript | TypeScript | C++ | C |
