@@ -29,5 +29,11 @@
 | <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="45" height="45"> | <img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.png" width="45" height="45"> | <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="45" height="45"> | <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="45" height="45"> |
 
 
+### Other Accounts 📫
+You can find and get touch with me on these accounts!
+
+| Facebook | Instagram | LinkedIn | Telegram |
+| --- | --- | --- | --- |
+| [<img src=" https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-square2-512.png" width="45" height="45">](https://www.facebook.com/yourprofile/) | [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="45" height="45">](https://www.instagram.com/yourprofile/) | [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="45" height="45">](https://www.linkedin.com/in/yourprofile/) | [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-telegram-circle-512.png" width="45" height="45">](https://t.me/yourprofile/) |
 
 
