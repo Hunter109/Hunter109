@@ -32,8 +32,8 @@
 ### Other Accounts 📫
 You can find and get touch with me on these accounts!
 
-| Facebook | Instagram | LinkedIn | Telegram |
+| [Facebook](https://www.facebook.com/yourprofile/) | [Instagram](https://www.instagram.com/yourprofile/) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [Telegram](https://t.me/yourprofile) |
 | --- | --- | --- | --- |
-| [<img src=" https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-square2-512.png" width="45" height="45">](https://www.facebook.com/yourprofile/) | [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="45" height="45">](https://www.instagram.com/yourprofile/) | [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="45" height="45">](https://www.linkedin.com/in/yourprofile/) | [<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-telegram-circle-512.png" width="45" height="45">](https://t.me/yourprofile/) |
+| <a href="https://www.facebook.com/4nonymous.Hunter.109/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-square2-512.png" width="45" height="45"></a> | <a href="https://www.instagram.com/yourprofile/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="45" height="45"></a> | <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="45" height="45"></a> | <a href="https://t.me/yourprofile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="45" height="45"></a> |
 
 
