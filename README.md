@@ -19,8 +19,8 @@
 
 ###  Frameworks 🔥 
 | Tailwind | React | Redux | Next.js | Express.js | 
-| --- | --- | --- | --- | --- | --- |
-| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" height="45"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="45" height="45">
+| --- | --- | --- | --- | --- | 
+| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" height="45"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="45" height="45">|
 
 
 ###  Tools 🌐
