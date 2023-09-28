@@ -18,9 +18,9 @@
 
 
 ###  Frameworks 🔥 
-| Tailwind | React | Redux | Next.js | Express.js | jQuery |
+| Tailwind | React | Redux | Next.js | Express.js | 
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" height="45"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="45" height="45">| <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Djquery%2BLogo&psig=AOvVaw1vVbB8DEL7GOuesqOQen0N&ust=1695969790731000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCy6vjZzIEDFQAAAAAdAAAAABAQ" width="45" height="45"> |
+| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" height="45"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="45" height="45">
 
 
 ###  Tools 🌐
