@@ -7,7 +7,7 @@
 
  
 ###  My Skills
- <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU_3CRQ20ZiDVwEiQylehbp25Fu7mlgV4R8VIIzwJYPdUzItbY"   > 
+ <img src="http://simplelogic.it/wp-content/uploads/2019/08/33.jpg"  width = "400" > 
 
  
 ###  Languages 🌐
