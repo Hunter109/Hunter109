@@ -7,7 +7,7 @@
 
  
 ###  My Skills
- <img src="https://www.designmantic.com/blog/wp-content/uploads/2020/10/Computer-Logo-Designs-718x300.jpg"  width="400" > 
+ <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU_3CRQ20ZiDVwEiQylehbp25Fu7mlgV4R8VIIzwJYPdUzItbY"  width="400" > 
 
  
 ###  Languages 🌐
