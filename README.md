@@ -7,7 +7,7 @@
 
  
 ###  My Skills
- <img src="https://webhousenepal.com/laravel-filemanager/photos/2/Services/software%20development%20in%20nepal.jpg"  width = "400" > 
+ <img src="https://github.com/Hunter109/utech/blob/main/img/software%20development%20in%20nepal.jpg?raw=true"  width = "400" > 
 
  
 ###  Languages 🌐
