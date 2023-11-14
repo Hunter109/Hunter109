@@ -1,9 +1,17 @@
 
-- Hi there 👋, I am Utsab Wagle,
-- 👀 I’m interested in Computer Networks, Web Development
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on fields like web development, database management and data structures
-- 📫 Reach me out on [Linkedin](https://www.linkedin.com/in/utsav-wagle-a4847a270/)
+# Hello! 👋 I'm Utsab Wagle,
+
+🚀 Passionate about Computer Networks and Web Development.
+
+🌱 Currently exploring the realms of Computer Engineering.
+
+💡 Open to collaborations in the exciting fields of:
+   - Web Development 🌐
+   - Database Management 🗃️
+   - Data Structures 🌐
+
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/utsav-wagle-a4847a270/) and let's create something amazing together!
+
 
  
 ###  My Skills
