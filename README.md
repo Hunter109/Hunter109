@@ -7,7 +7,7 @@
 
  
 ###  My Skills
- <img src="http://simplelogic.it/wp-content/uploads/2019/08/33.jpg"  width = "400" > 
+ <img src="https://webhousenepal.com/laravel-filemanager/photos/2/Services/software%20development%20in%20nepal.jpg"  width = "400" > 
 
  
 ###  Languages 🌐
