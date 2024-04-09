@@ -11,7 +11,7 @@
    - Database Management 🗃️
    - Data Structures 🌐
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/utsav-wagle-a4847a270/) and let's create something amazing together!
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/utsab-wagle/) and let's create something amazing together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunter109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
