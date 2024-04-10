@@ -53,7 +53,7 @@ You can find and get touch with me on these accounts!
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter109&layout=compact" alt="Top Languages" /></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hunter109&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter109&" alt="GitHub Streak Stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter109" alt="GitHub Streak Stats" /></td>
   </tr>
 </table>
 
