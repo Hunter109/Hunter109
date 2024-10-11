@@ -31,7 +31,7 @@
 ###  Frameworks 🔥 
 | Tailwind | React | Redux | Next.js | Express.js | Node.js |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" width="65" height="55"> | <img src="https://images.velog.io/images/iwantobuymac/post/05b1fc28-b7bd-4aaa-9627-205221635b5c/express-logo.jpeg" width="65" height="55">| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="45" height="45"> |
+| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" width="65" height="55"> | <img src="https://images.velog.io/images/iwantobuymac/post/05b1fc28-b7bd-4aaa-9627-205221635b5c/express-logo.jpeg" width="65" height="55">| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="45" height="45"> |
 
 
 
