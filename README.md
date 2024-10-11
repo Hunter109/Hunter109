@@ -31,7 +31,7 @@
 ###  Frameworks 🔥 
 | Tailwind | React | Redux | Next.js | Express.js | Node.js |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" width="65" height="55"> | <img src="https://www.dailyupblog.com/wp-content/uploads/node_express.jpg" width="65" height="55">| <img src="https://blog.codefactory.ai/static/274d90c09ce8519e383c5d7ffede4734/14b42/thumb.jpg" width="45" height="45"> |
+| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" width="65" height="55"> | <img src="https://www.dailyupblog.com/wp-content/uploads/node_express.jpg" width="75" height="55">| <img src="https://media.licdn.com/dms/image/D4D12AQF1btzrvx64aQ/article-cover_image-shrink_720_1280/0/1698242399109?e=2147483647&v=beta&t=_OkJ8ffsiTF8-_AxICCpZXT176KkvOziJb0uKDDk3r0" width="65" height="45"> |
 
 
 
