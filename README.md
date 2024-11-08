@@ -13,6 +13,10 @@
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/utsab-wagle/) and let's create something amazing together!
 
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-0073e6?style=for-the-badge&logo=google-chrome)](https://utsabwagle.com.np)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hunter109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
  
@@ -51,11 +55,12 @@ You can find and get touch with me on these accounts!
 ## GitHub Stats
 <table>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter109&layout=compact" alt="Top Languages" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hunter109&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter109" alt="GitHub Streak Stats" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter109&layout=compact&theme=dark" alt="Top Languages" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hunter109&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter109&theme=dark" alt="GitHub Streak Stats" /></td>
   </tr>
 </table>
+
 
 
 
