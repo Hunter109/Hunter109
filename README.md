@@ -28,21 +28,21 @@
 
 | HTML | CSS | JavaScript | Java | C++ | C | PHP |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="45" height="45"> | <img src="https://static.javatpoint.com/core/images/java-logo1.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="45" height="45"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="45" height="45"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="45" height="45"> |
 
 
 
 ###  Frameworks 🔥 
 | Tailwind | React | Redux | Next.js | Express.js | Node.js |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="45" height="45"> |  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" width="65" height="55"> | <img src="https://www.dailyupblog.com/wp-content/uploads/node_express.jpg" width="75" height="55">| <img src="https://media.licdn.com/dms/image/D4D12AQF1btzrvx64aQ/article-cover_image-shrink_720_1280/0/1698242399109?e=2147483647&v=beta&t=_OkJ8ffsiTF8-_AxICCpZXT176KkvOziJb0uKDDk3r0" width="65" height="45"> |
+| <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="75" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45" height="45"> | <img src="https://hello-pomelo.com/wp-content/uploads/2024/08/reduuux.jpg" width="75" height="50"> |  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" width="65" height="55"> | <img src="https://www.dailyupblog.com/wp-content/uploads/node_express.jpg" width="75" height="55">| <img src="https://media.licdn.com/dms/image/D4D12AQF1btzrvx64aQ/article-cover_image-shrink_720_1280/0/1698242399109?e=2147483647&v=beta&t=_OkJ8ffsiTF8-_AxICCpZXT176KkvOziJb0uKDDk3r0" width="65" height="45"> |
 
 
 
 ###  Tools 🌐
 | Webpack | Babel | npm | Git | Visual Studio Code |
 | --- | --- | --- | --- | --- |
-| <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="45" height="45"> | <img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.png" width="45" height="45"> | <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="45" height="45"> | <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="45" height="45"> |
+| <img src="https://cdn.iconscout.com/icon/free/png-256/free-webpack-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-7-pack-logos-icons-3030288.png?f=webp&w=256" width="45" height="45"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" width="45" height="45"> | <img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.png" width="45" height="45"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"> | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="45" height="45"> |
 
 
 ### Other Accounts 📫
