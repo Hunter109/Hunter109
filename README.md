@@ -1,15 +1,18 @@
 
-# Hello! 👋 I'm Utsab Wagle, 
+# 👋 Hello! I'm **Utsab Wagle**
 
+🚀 **MERN Stack Developer | JavaScript Enthusiast | Problem Solver**
 
-🚀 Passionate about Computer Networks and Web Development.
+I build dynamic and scalable full-stack applications using **MongoDB, Express.js, React.js, and Node.js**.  
+Passionate about writing clean code, learning new technologies, and solving real-world problems.
 
-🌱 Currently exploring the realms of Computer Engineering.
+---
 
-💡 Open to collaborations in the exciting fields of:
-   - Web Development 🌐
-   - Database Management 🗃️
-   - Data Structures 🌐
+## 🌱 Currently Learning & Improving
+- MERN Stack Development  
+- Backend Engineering (Express.js, REST APIs)  
+- Database Systems (MongoDB & SQL)  
+
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/utsab-wagle/) and let's create something amazing together!
 
