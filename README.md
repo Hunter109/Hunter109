@@ -1,9 +1,9 @@
 # 👋 Hello! I'm **Utsab Wagle**
 
-🚀 **Computer Engineer | MERN Stack Developer | JavaScript Enthusiast**
+🚀 **Computer Engineer | MERN Stack Developer | JavaScript Enthusiast** 
 
-I’m a Computer Engineer with a strong passion for building full-stack web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
-I enjoy solving real-world problems, designing efficient backend systems, and continuously learning modern web technologies.
+I’m a Computer Engineer with a strong passion for building full-stack web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I love solving problems, exploring backend systems, and learning modern web technologies. 
+
 ---
 
 ## 🌱 Currently Learning & Improving
